@@ -2,7 +2,7 @@
 
 Customer-facing AI assistant for a Campania winery. Handles product questions, cellar visit bookings, and e-commerce order flow from a single chat interface — embedded directly on the website.
 
-**Status:** Deployed — Cantine Federiciane, Campania
+**Status:** DEMO — Cantine Federiciane, Campania
 
 ---
 
@@ -130,4 +130,4 @@ Full guide in [`docs/setup.md`](./docs/setup.md).
 
 ## About
 
-Built by [Gianluca Perrini](https://github.com/w1kicartel) / [AgentFlow](https://agentflow.it) — AI automation for Italian SMBs.
+Built by [ME](https://github.com/w1kicartel) / [AIgentFlow](https://AIgentflow.cloud) — AI automation for Italian SMBs.
